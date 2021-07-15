@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxinechao
-- 👀 I’m interested in nodejs and mysql system
-- 🌱 I’m currently learning to build a Back-end shopping website, and you can check it on my respositories name 
+- 👀 I’m interested in nodejs and mysql system, though I'm a beginner in IT... 
+- 🌱 I’m currently learning to build a Back-end shopping website, and you can check it on my respositories name myapp
 - 📫 You can email me with yichao1946@gmail.com, anytime!!
 
 <!---
